@@ -19,7 +19,7 @@ Welcome to the "ReactHooks" project! This project is intended for beginners who 
 1. Clone the repository:
 
  ```sh
-    git clone https://github.com/OanaBuboi/ReactHooks.git
+    git clone https://github.com/OanaBuboi/ReactHooksProject.git
  ```
 
 2. Navigate to the project directory:
